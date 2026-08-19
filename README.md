@@ -1,9 +1,21 @@
 # BEDCA Food Composition Dataset
 
+[![DOI](https://zenodo.org/badge/1339567893.svg)](https://doi.org/10.5281/zenodo.22017000)
+
 Food composition data from the Spanish Food Composition Database,
 retrieved from <https://www.bedca.net/> (the database app at
 `https://www.bedca.net/bdpub/`) in August 2026 via the site's public XML
 query interface, at a polite rate (one sequential request every 2.5 s).
+
+## Download
+
+- **GitHub release** — `bedca-dataset-2026.zip`: the complete dataset
+  (README, LICENSE, `output/` CSV files, manifest). Verify with the
+  published SHA-256 checksum in `bedca-dataset-2026.zip.sha256`:
+  `sha256sum -c bedca-dataset-2026.zip.sha256`
+- **Zenodo archive** — <https://doi.org/10.5281/zenodo.22017000>: a
+  citable, versioned record of this repository. The concept DOI
+  `10.5281/zenodo.22017001` always resolves to the latest version.
 
 ## Attribution
 

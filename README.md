@@ -1,6 +1,6 @@
 # BEDCA Food Composition Dataset
 
-[![DOI](https://zenodo.org/badge/1339567893.svg)](https://doi.org/10.5281/zenodo.22017000)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22017001.svg)](https://doi.org/10.5281/zenodo.22017000)
 
 Food composition data from the Spanish Food Composition Database,
 retrieved from <https://www.bedca.net/> (the database app at

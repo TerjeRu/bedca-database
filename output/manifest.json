@@ -1,0 +1,5908 @@
+{
+  "run": {
+    "started": "2026-08-19T12:12:08.733345+00:00",
+    "endpoint": "https://www.bedca.net/bdpub/procquery.php",
+    "delay_s": 2.5,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    "finished": "2026-08-19T12:12:41.831373+00:00"
+  },
+  "list": {},
+  "foods": {
+    "2361": {
+      "status": "OK",
+      "bytes": 62489,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "680": {
+      "status": "OK",
+      "bytes": 73821,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "681": {
+      "status": "OK",
+      "bytes": 66834,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "682": {
+      "status": "OK",
+      "bytes": 73827,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "683": {
+      "status": "OK",
+      "bytes": 61784,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "685": {
+      "status": "OK",
+      "bytes": 63763,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "686": {
+      "status": "OK",
+      "bytes": 63676,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "687": {
+      "status": "OK",
+      "bytes": 85416,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "688": {
+      "status": "OK",
+      "bytes": 66048,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "689": {
+      "status": "OK",
+      "bytes": 75813,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "691": {
+      "status": "OK",
+      "bytes": 70468,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "692": {
+      "status": "OK",
+      "bytes": 69808,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "693": {
+      "status": "OK",
+      "bytes": 69700,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "694": {
+      "status": "OK",
+      "bytes": 69741,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "695": {
+      "status": "OK",
+      "bytes": 69621,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "696": {
+      "status": "OK",
+      "bytes": 69592,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "697": {
+      "status": "OK",
+      "bytes": 97399,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "698": {
+      "status": "OK",
+      "bytes": 69592,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "699": {
+      "status": "OK",
+      "bytes": 69627,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "700": {
+      "status": "OK",
+      "bytes": 90552,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "701": {
+      "status": "OK",
+      "bytes": 69642,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "702": {
+      "status": "OK",
+      "bytes": 69670,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "703": {
+      "status": "OK",
+      "bytes": 70307,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "704": {
+      "status": "OK",
+      "bytes": 69700,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "705": {
+      "status": "OK",
+      "bytes": 69567,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "706": {
+      "status": "OK",
+      "bytes": 69593,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "707": {
+      "status": "OK",
+      "bytes": 69704,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "708": {
+      "status": "OK",
+      "bytes": 69768,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "709": {
+      "status": "OK",
+      "bytes": 68341,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "710": {
+      "status": "OK",
+      "bytes": 69618,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "711": {
+      "status": "OK",
+      "bytes": 69669,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "712": {
+      "status": "OK",
+      "bytes": 70191,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "713": {
+      "status": "OK",
+      "bytes": 70310,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "714": {
+      "status": "OK",
+      "bytes": 69669,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "715": {
+      "status": "OK",
+      "bytes": 78864,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "716": {
+      "status": "OK",
+      "bytes": 98973,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "717": {
+      "status": "OK",
+      "bytes": 78858,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "718": {
+      "status": "OK",
+      "bytes": 78859,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "719": {
+      "status": "OK",
+      "bytes": 78856,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "720": {
+      "status": "OK",
+      "bytes": 82793,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "721": {
+      "status": "OK",
+      "bytes": 98926,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "722": {
+      "status": "OK",
+      "bytes": 79116,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "723": {
+      "status": "OK",
+      "bytes": 62333,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "730": {
+      "status": "OK",
+      "bytes": 70285,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "731": {
+      "status": "OK",
+      "bytes": 71000,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "732": {
+      "status": "OK",
+      "bytes": 69958,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "733": {
+      "status": "OK",
+      "bytes": 74142,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "735": {
+      "status": "OK",
+      "bytes": 66141,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "736": {
+      "status": "OK",
+      "bytes": 69612,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "737": {
+      "status": "OK",
+      "bytes": 66353,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "739": {
+      "status": "OK",
+      "bytes": 65987,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "740": {
+      "status": "OK",
+      "bytes": 83893,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "741": {
+      "status": "OK",
+      "bytes": 62625,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "742": {
+      "status": "OK",
+      "bytes": 65903,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "745": {
+      "status": "OK",
+      "bytes": 63747,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "746": {
+      "status": "OK",
+      "bytes": 89890,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "747": {
+      "status": "OK",
+      "bytes": 79310,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "748": {
+      "status": "OK",
+      "bytes": 88709,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "749": {
+      "status": "OK",
+      "bytes": 87041,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "750": {
+      "status": "OK",
+      "bytes": 73728,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "751": {
+      "status": "OK",
+      "bytes": 88557,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "752": {
+      "status": "OK",
+      "bytes": 89968,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "753": {
+      "status": "OK",
+      "bytes": 83215,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "754": {
+      "status": "OK",
+      "bytes": 76177,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "755": {
+      "status": "OK",
+      "bytes": 79567,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "756": {
+      "status": "OK",
+      "bytes": 88748,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "757": {
+      "status": "OK",
+      "bytes": 82132,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "758": {
+      "status": "OK",
+      "bytes": 68925,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "759": {
+      "status": "OK",
+      "bytes": 68970,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "760": {
+      "status": "OK",
+      "bytes": 64979,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "761": {
+      "status": "OK",
+      "bytes": 68938,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "762": {
+      "status": "OK",
+      "bytes": 85322,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "763": {
+      "status": "OK",
+      "bytes": 74755,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "764": {
+      "status": "OK",
+      "bytes": 81387,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "766": {
+      "status": "OK",
+      "bytes": 78321,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "767": {
+      "status": "OK",
+      "bytes": 73632,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "768": {
+      "status": "OK",
+      "bytes": 72814,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "769": {
+      "status": "OK",
+      "bytes": 66797,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "770": {
+      "status": "OK",
+      "bytes": 66933,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "771": {
+      "status": "OK",
+      "bytes": 76680,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "772": {
+      "status": "OK",
+      "bytes": 76137,
+      "elapsed_s": 0.5,
+      "retries": 0
+    },
+    "773": {
+      "status": "OK",
+      "bytes": 79390,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "774": {
+      "status": "OK",
+      "bytes": 80015,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "775": {
+      "status": "OK",
+      "bytes": 76624,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "776": {
+      "status": "OK",
+      "bytes": 86753,
+      "elapsed_s": 0.5,
+      "retries": 0
+    },
+    "777": {
+      "status": "OK",
+      "bytes": 88290,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "778": {
+      "status": "OK",
+      "bytes": 85005,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "779": {
+      "status": "OK",
+      "bytes": 68288,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "780": {
+      "status": "OK",
+      "bytes": 83325,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "781": {
+      "status": "OK",
+      "bytes": 75797,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "782": {
+      "status": "OK",
+      "bytes": 89675,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "783": {
+      "status": "OK",
+      "bytes": 84332,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "784": {
+      "status": "OK",
+      "bytes": 66855,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "785": {
+      "status": "OK",
+      "bytes": 74199,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "786": {
+      "status": "OK",
+      "bytes": 67072,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "787": {
+      "status": "OK",
+      "bytes": 66866,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "788": {
+      "status": "OK",
+      "bytes": 81331,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "789": {
+      "status": "OK",
+      "bytes": 81199,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "790": {
+      "status": "OK",
+      "bytes": 82204,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "791": {
+      "status": "OK",
+      "bytes": 63235,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "792": {
+      "status": "OK",
+      "bytes": 64479,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "793": {
+      "status": "OK",
+      "bytes": 76356,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "794": {
+      "status": "OK",
+      "bytes": 71714,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "795": {
+      "status": "OK",
+      "bytes": 63024,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "797": {
+      "status": "OK",
+      "bytes": 62639,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "798": {
+      "status": "OK",
+      "bytes": 62640,
+      "elapsed_s": 0.5,
+      "retries": 0
+    },
+    "799": {
+      "status": "OK",
+      "bytes": 64765,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "800": {
+      "status": "OK",
+      "bytes": 61196,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "801": {
+      "status": "OK",
+      "bytes": 60581,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "802": {
+      "status": "OK",
+      "bytes": 78698,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "803": {
+      "status": "OK",
+      "bytes": 76458,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "804": {
+      "status": "OK",
+      "bytes": 61873,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "805": {
+      "status": "OK",
+      "bytes": 61816,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "806": {
+      "status": "OK",
+      "bytes": 60632,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "807": {
+      "status": "OK",
+      "bytes": 78639,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "810": {
+      "status": "OK",
+      "bytes": 63106,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "811": {
+      "status": "OK",
+      "bytes": 62953,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "812": {
+      "status": "OK",
+      "bytes": 76878,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "815": {
+      "status": "OK",
+      "bytes": 81922,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "816": {
+      "status": "OK",
+      "bytes": 62502,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "817": {
+      "status": "OK",
+      "bytes": 62141,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "818": {
+      "status": "OK",
+      "bytes": 89238,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "820": {
+      "status": "OK",
+      "bytes": 63436,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "821": {
+      "status": "OK",
+      "bytes": 68460,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "822": {
+      "status": "OK",
+      "bytes": 61952,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "823": {
+      "status": "OK",
+      "bytes": 67366,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "824": {
+      "status": "OK",
+      "bytes": 64348,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "825": {
+      "status": "OK",
+      "bytes": 62826,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "826": {
+      "status": "OK",
+      "bytes": 88029,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "827": {
+      "status": "OK",
+      "bytes": 62024,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "828": {
+      "status": "OK",
+      "bytes": 88679,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "829": {
+      "status": "OK",
+      "bytes": 85612,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "830": {
+      "status": "OK",
+      "bytes": 82362,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "831": {
+      "status": "OK",
+      "bytes": 62152,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "832": {
+      "status": "OK",
+      "bytes": 82852,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "834": {
+      "status": "OK",
+      "bytes": 62920,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "835": {
+      "status": "OK",
+      "bytes": 77875,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "836": {
+      "status": "OK",
+      "bytes": 63257,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "837": {
+      "status": "OK",
+      "bytes": 80386,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "838": {
+      "status": "OK",
+      "bytes": 60286,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "839": {
+      "status": "OK",
+      "bytes": 74553,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "843": {
+      "status": "OK",
+      "bytes": 56425,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "844": {
+      "status": "OK",
+      "bytes": 79546,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "846": {
+      "status": "OK",
+      "bytes": 25896,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "847": {
+      "status": "OK",
+      "bytes": 45859,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "849": {
+      "status": "OK",
+      "bytes": 66182,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "850": {
+      "status": "OK",
+      "bytes": 67195,
+      "elapsed_s": 1.1,
+      "retries": 0
+    },
+    "852": {
+      "status": "OK",
+      "bytes": 73234,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "855": {
+      "status": "OK",
+      "bytes": 66178,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "856": {
+      "status": "OK",
+      "bytes": 63218,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "857": {
+      "status": "OK",
+      "bytes": 62902,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "858": {
+      "status": "OK",
+      "bytes": 66018,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "859": {
+      "status": "OK",
+      "bytes": 73639,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "861": {
+      "status": "OK",
+      "bytes": 70699,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "865": {
+      "status": "OK",
+      "bytes": 65954,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "866": {
+      "status": "OK",
+      "bytes": 65974,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "870": {
+      "status": "OK",
+      "bytes": 68506,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "871": {
+      "status": "OK",
+      "bytes": 75717,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "872": {
+      "status": "OK",
+      "bytes": 77803,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "873": {
+      "status": "OK",
+      "bytes": 71080,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "874": {
+      "status": "OK",
+      "bytes": 72347,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "875": {
+      "status": "OK",
+      "bytes": 74838,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "876": {
+      "status": "OK",
+      "bytes": 64044,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "877": {
+      "status": "OK",
+      "bytes": 63694,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "878": {
+      "status": "OK",
+      "bytes": 70414,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "879": {
+      "status": "OK",
+      "bytes": 74026,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "880": {
+      "status": "OK",
+      "bytes": 70886,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "881": {
+      "status": "OK",
+      "bytes": 66288,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "882": {
+      "status": "OK",
+      "bytes": 63853,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "883": {
+      "status": "OK",
+      "bytes": 84972,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "884": {
+      "status": "OK",
+      "bytes": 66962,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "886": {
+      "status": "OK",
+      "bytes": 68736,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "887": {
+      "status": "OK",
+      "bytes": 66097,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "888": {
+      "status": "OK",
+      "bytes": 67739,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "891": {
+      "status": "OK",
+      "bytes": 64474,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "892": {
+      "status": "OK",
+      "bytes": 67866,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "893": {
+      "status": "OK",
+      "bytes": 62527,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "894": {
+      "status": "OK",
+      "bytes": 32329,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "895": {
+      "status": "OK",
+      "bytes": 65200,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "896": {
+      "status": "OK",
+      "bytes": 83515,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "897": {
+      "status": "OK",
+      "bytes": 66065,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "898": {
+      "status": "OK",
+      "bytes": 66209,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "899": {
+      "status": "OK",
+      "bytes": 90813,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "900": {
+      "status": "OK",
+      "bytes": 65864,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "901": {
+      "status": "OK",
+      "bytes": 72279,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "902": {
+      "status": "OK",
+      "bytes": 61716,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "903": {
+      "status": "OK",
+      "bytes": 70725,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "904": {
+      "status": "OK",
+      "bytes": 77194,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "907": {
+      "status": "OK",
+      "bytes": 69322,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "908": {
+      "status": "OK",
+      "bytes": 78241,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "909": {
+      "status": "OK",
+      "bytes": 76375,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "911": {
+      "status": "OK",
+      "bytes": 81768,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "912": {
+      "status": "OK",
+      "bytes": 66692,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "913": {
+      "status": "OK",
+      "bytes": 60507,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "914": {
+      "status": "OK",
+      "bytes": 79064,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "915": {
+      "status": "OK",
+      "bytes": 65579,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "916": {
+      "status": "OK",
+      "bytes": 66143,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "917": {
+      "status": "OK",
+      "bytes": 73172,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "918": {
+      "status": "OK",
+      "bytes": 65042,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "919": {
+      "status": "OK",
+      "bytes": 63771,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "920": {
+      "status": "OK",
+      "bytes": 24304,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "921": {
+      "status": "OK",
+      "bytes": 42390,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "922": {
+      "status": "OK",
+      "bytes": 78934,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "923": {
+      "status": "OK",
+      "bytes": 66489,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "924": {
+      "status": "OK",
+      "bytes": 79121,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "925": {
+      "status": "OK",
+      "bytes": 66203,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "926": {
+      "status": "OK",
+      "bytes": 79195,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "927": {
+      "status": "OK",
+      "bytes": 79226,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "928": {
+      "status": "OK",
+      "bytes": 69403,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "929": {
+      "status": "OK",
+      "bytes": 66200,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "930": {
+      "status": "OK",
+      "bytes": 66878,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "931": {
+      "status": "OK",
+      "bytes": 67599,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "932": {
+      "status": "OK",
+      "bytes": 67594,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "933": {
+      "status": "OK",
+      "bytes": 67576,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "934": {
+      "status": "OK",
+      "bytes": 67956,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "935": {
+      "status": "OK",
+      "bytes": 79084,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "937": {
+      "status": "OK",
+      "bytes": 69303,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "938": {
+      "status": "OK",
+      "bytes": 84116,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "939": {
+      "status": "OK",
+      "bytes": 62395,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "940": {
+      "status": "OK",
+      "bytes": 68664,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "941": {
+      "status": "OK",
+      "bytes": 67141,
+      "elapsed_s": 0.5,
+      "retries": 0
+    },
+    "942": {
+      "status": "OK",
+      "bytes": 67554,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "943": {
+      "status": "OK",
+      "bytes": 63953,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "944": {
+      "status": "OK",
+      "bytes": 75803,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "945": {
+      "status": "OK",
+      "bytes": 62434,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "946": {
+      "status": "OK",
+      "bytes": 76629,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "947": {
+      "status": "OK",
+      "bytes": 62896,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "948": {
+      "status": "OK",
+      "bytes": 62245,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "950": {
+      "status": "OK",
+      "bytes": 66625,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "952": {
+      "status": "OK",
+      "bytes": 62668,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "953": {
+      "status": "OK",
+      "bytes": 74931,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "955": {
+      "status": "OK",
+      "bytes": 61341,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "956": {
+      "status": "OK",
+      "bytes": 75329,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "961": {
+      "status": "OK",
+      "bytes": 67735,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "962": {
+      "status": "OK",
+      "bytes": 92241,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "964": {
+      "status": "OK",
+      "bytes": 71376,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "965": {
+      "status": "OK",
+      "bytes": 73284,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "966": {
+      "status": "OK",
+      "bytes": 82980,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "967": {
+      "status": "OK",
+      "bytes": 94013,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "968": {
+      "status": "OK",
+      "bytes": 76630,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "969": {
+      "status": "OK",
+      "bytes": 67717,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "970": {
+      "status": "OK",
+      "bytes": 76432,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "971": {
+      "status": "OK",
+      "bytes": 67973,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "972": {
+      "status": "OK",
+      "bytes": 74948,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "973": {
+      "status": "OK",
+      "bytes": 70433,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "974": {
+      "status": "OK",
+      "bytes": 72307,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "975": {
+      "status": "OK",
+      "bytes": 61663,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "976": {
+      "status": "OK",
+      "bytes": 82147,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "977": {
+      "status": "OK",
+      "bytes": 66236,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "978": {
+      "status": "OK",
+      "bytes": 67655,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "979": {
+      "status": "OK",
+      "bytes": 83289,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "980": {
+      "status": "OK",
+      "bytes": 69116,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "981": {
+      "status": "OK",
+      "bytes": 80628,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "982": {
+      "status": "OK",
+      "bytes": 83509,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "983": {
+      "status": "OK",
+      "bytes": 88210,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "984": {
+      "status": "OK",
+      "bytes": 66214,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "985": {
+      "status": "OK",
+      "bytes": 80839,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "986": {
+      "status": "OK",
+      "bytes": 68896,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "988": {
+      "status": "OK",
+      "bytes": 83751,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "989": {
+      "status": "OK",
+      "bytes": 67151,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "990": {
+      "status": "OK",
+      "bytes": 66047,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "991": {
+      "status": "OK",
+      "bytes": 71344,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "992": {
+      "status": "OK",
+      "bytes": 69965,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "993": {
+      "status": "OK",
+      "bytes": 73067,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "994": {
+      "status": "OK",
+      "bytes": 71658,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "995": {
+      "status": "OK",
+      "bytes": 66201,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "996": {
+      "status": "OK",
+      "bytes": 66195,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "997": {
+      "status": "OK",
+      "bytes": 66206,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "999": {
+      "status": "OK",
+      "bytes": 76508,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1000": {
+      "status": "OK",
+      "bytes": 87465,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1001": {
+      "status": "OK",
+      "bytes": 70360,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1002": {
+      "status": "OK",
+      "bytes": 83905,
+      "elapsed_s": 0.5,
+      "retries": 0
+    },
+    "1003": {
+      "status": "OK",
+      "bytes": 71307,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1005": {
+      "status": "OK",
+      "bytes": 72236,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1006": {
+      "status": "OK",
+      "bytes": 67022,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1007": {
+      "status": "OK",
+      "bytes": 86142,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1008": {
+      "status": "OK",
+      "bytes": 77067,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1009": {
+      "status": "OK",
+      "bytes": 88640,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1010": {
+      "status": "OK",
+      "bytes": 81390,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1011": {
+      "status": "OK",
+      "bytes": 72053,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1012": {
+      "status": "OK",
+      "bytes": 80793,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1013": {
+      "status": "OK",
+      "bytes": 70232,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1014": {
+      "status": "OK",
+      "bytes": 87234,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1015": {
+      "status": "OK",
+      "bytes": 66266,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1017": {
+      "status": "OK",
+      "bytes": 71860,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1018": {
+      "status": "OK",
+      "bytes": 70188,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1019": {
+      "status": "OK",
+      "bytes": 68123,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1020": {
+      "status": "OK",
+      "bytes": 87033,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1021": {
+      "status": "OK",
+      "bytes": 73245,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1022": {
+      "status": "OK",
+      "bytes": 65866,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1024": {
+      "status": "OK",
+      "bytes": 70266,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1026": {
+      "status": "OK",
+      "bytes": 63234,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1027": {
+      "status": "OK",
+      "bytes": 62285,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1028": {
+      "status": "OK",
+      "bytes": 64810,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1029": {
+      "status": "OK",
+      "bytes": 72628,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1030": {
+      "status": "OK",
+      "bytes": 68858,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1031": {
+      "status": "OK",
+      "bytes": 67438,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1032": {
+      "status": "OK",
+      "bytes": 70596,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1034": {
+      "status": "OK",
+      "bytes": 67315,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1035": {
+      "status": "OK",
+      "bytes": 67969,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1036": {
+      "status": "OK",
+      "bytes": 68521,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1038": {
+      "status": "OK",
+      "bytes": 67475,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1039": {
+      "status": "OK",
+      "bytes": 67561,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1040": {
+      "status": "OK",
+      "bytes": 66441,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1042": {
+      "status": "OK",
+      "bytes": 70161,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1043": {
+      "status": "OK",
+      "bytes": 77302,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1044": {
+      "status": "OK",
+      "bytes": 95033,
+      "elapsed_s": 0.5,
+      "retries": 0
+    },
+    "1045": {
+      "status": "OK",
+      "bytes": 68003,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1046": {
+      "status": "OK",
+      "bytes": 84342,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1047": {
+      "status": "OK",
+      "bytes": 86031,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1048": {
+      "status": "OK",
+      "bytes": 81377,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1049": {
+      "status": "OK",
+      "bytes": 92607,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1050": {
+      "status": "OK",
+      "bytes": 82444,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1051": {
+      "status": "OK",
+      "bytes": 79895,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1052": {
+      "status": "OK",
+      "bytes": 79950,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1053": {
+      "status": "OK",
+      "bytes": 88786,
+      "elapsed_s": 0.5,
+      "retries": 0
+    },
+    "1054": {
+      "status": "OK",
+      "bytes": 76051,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1055": {
+      "status": "OK",
+      "bytes": 80749,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1056": {
+      "status": "OK",
+      "bytes": 82663,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1057": {
+      "status": "OK",
+      "bytes": 67431,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1059": {
+      "status": "OK",
+      "bytes": 70401,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1060": {
+      "status": "OK",
+      "bytes": 86887,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1061": {
+      "status": "OK",
+      "bytes": 67214,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1062": {
+      "status": "OK",
+      "bytes": 79155,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1063": {
+      "status": "OK",
+      "bytes": 88589,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1064": {
+      "status": "OK",
+      "bytes": 67353,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1065": {
+      "status": "OK",
+      "bytes": 72919,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1066": {
+      "status": "OK",
+      "bytes": 67216,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1067": {
+      "status": "OK",
+      "bytes": 71705,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1068": {
+      "status": "OK",
+      "bytes": 63119,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1069": {
+      "status": "OK",
+      "bytes": 87949,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1070": {
+      "status": "OK",
+      "bytes": 71042,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1071": {
+      "status": "OK",
+      "bytes": 81058,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1072": {
+      "status": "OK",
+      "bytes": 67268,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1073": {
+      "status": "OK",
+      "bytes": 63764,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1074": {
+      "status": "OK",
+      "bytes": 82626,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1075": {
+      "status": "OK",
+      "bytes": 92137,
+      "elapsed_s": 0.5,
+      "retries": 0
+    },
+    "1076": {
+      "status": "OK",
+      "bytes": 81418,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1077": {
+      "status": "OK",
+      "bytes": 66569,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1078": {
+      "status": "OK",
+      "bytes": 101738,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1079": {
+      "status": "OK",
+      "bytes": 71248,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1080": {
+      "status": "OK",
+      "bytes": 86250,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1081": {
+      "status": "OK",
+      "bytes": 66062,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1083": {
+      "status": "OK",
+      "bytes": 65397,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1084": {
+      "status": "OK",
+      "bytes": 65974,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1085": {
+      "status": "OK",
+      "bytes": 70574,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1086": {
+      "status": "OK",
+      "bytes": 78744,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1088": {
+      "status": "OK",
+      "bytes": 63195,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1089": {
+      "status": "OK",
+      "bytes": 70874,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1090": {
+      "status": "OK",
+      "bytes": 65505,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1091": {
+      "status": "OK",
+      "bytes": 85081,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1092": {
+      "status": "OK",
+      "bytes": 66206,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1094": {
+      "status": "OK",
+      "bytes": 65410,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1095": {
+      "status": "OK",
+      "bytes": 66229,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1096": {
+      "status": "OK",
+      "bytes": 66547,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1097": {
+      "status": "OK",
+      "bytes": 66215,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1098": {
+      "status": "OK",
+      "bytes": 67299,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1099": {
+      "status": "OK",
+      "bytes": 63143,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1100": {
+      "status": "OK",
+      "bytes": 63079,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1101": {
+      "status": "OK",
+      "bytes": 67116,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1102": {
+      "status": "OK",
+      "bytes": 79031,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1103": {
+      "status": "OK",
+      "bytes": 66968,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1104": {
+      "status": "OK",
+      "bytes": 62921,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1105": {
+      "status": "OK",
+      "bytes": 66323,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1106": {
+      "status": "OK",
+      "bytes": 65821,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1107": {
+      "status": "OK",
+      "bytes": 66504,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1108": {
+      "status": "OK",
+      "bytes": 68187,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1109": {
+      "status": "OK",
+      "bytes": 65764,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1110": {
+      "status": "OK",
+      "bytes": 76224,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1111": {
+      "status": "OK",
+      "bytes": 81604,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1112": {
+      "status": "OK",
+      "bytes": 91115,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1113": {
+      "status": "OK",
+      "bytes": 78218,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1114": {
+      "status": "OK",
+      "bytes": 80679,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1115": {
+      "status": "OK",
+      "bytes": 85491,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1116": {
+      "status": "OK",
+      "bytes": 79853,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1117": {
+      "status": "OK",
+      "bytes": 66267,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1118": {
+      "status": "OK",
+      "bytes": 66852,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1119": {
+      "status": "OK",
+      "bytes": 67293,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1120": {
+      "status": "OK",
+      "bytes": 66195,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1121": {
+      "status": "OK",
+      "bytes": 66309,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1122": {
+      "status": "OK",
+      "bytes": 67596,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1123": {
+      "status": "OK",
+      "bytes": 77388,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1124": {
+      "status": "OK",
+      "bytes": 83669,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1125": {
+      "status": "OK",
+      "bytes": 66150,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1126": {
+      "status": "OK",
+      "bytes": 67713,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1127": {
+      "status": "OK",
+      "bytes": 65769,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1128": {
+      "status": "OK",
+      "bytes": 74039,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1129": {
+      "status": "OK",
+      "bytes": 95357,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1130": {
+      "status": "OK",
+      "bytes": 63647,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1131": {
+      "status": "OK",
+      "bytes": 62121,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1133": {
+      "status": "OK",
+      "bytes": 79866,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1135": {
+      "status": "OK",
+      "bytes": 71782,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1137": {
+      "status": "OK",
+      "bytes": 66384,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1140": {
+      "status": "OK",
+      "bytes": 66527,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1141": {
+      "status": "OK",
+      "bytes": 69799,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1143": {
+      "status": "OK",
+      "bytes": 79513,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1144": {
+      "status": "OK",
+      "bytes": 66389,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1145": {
+      "status": "OK",
+      "bytes": 66229,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1149": {
+      "status": "OK",
+      "bytes": 66441,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1150": {
+      "status": "OK",
+      "bytes": 65717,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1155": {
+      "status": "OK",
+      "bytes": 61439,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1158": {
+      "status": "OK",
+      "bytes": 76133,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1159": {
+      "status": "OK",
+      "bytes": 79905,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1160": {
+      "status": "OK",
+      "bytes": 69596,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1161": {
+      "status": "OK",
+      "bytes": 79439,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1162": {
+      "status": "OK",
+      "bytes": 84714,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1163": {
+      "status": "OK",
+      "bytes": 62207,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1164": {
+      "status": "OK",
+      "bytes": 72961,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1165": {
+      "status": "OK",
+      "bytes": 66064,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1166": {
+      "status": "OK",
+      "bytes": 66299,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1167": {
+      "status": "OK",
+      "bytes": 67332,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1168": {
+      "status": "OK",
+      "bytes": 60243,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1169": {
+      "status": "OK",
+      "bytes": 67431,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1172": {
+      "status": "OK",
+      "bytes": 83173,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1173": {
+      "status": "OK",
+      "bytes": 71673,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1174": {
+      "status": "OK",
+      "bytes": 66144,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1175": {
+      "status": "OK",
+      "bytes": 86420,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1176": {
+      "status": "OK",
+      "bytes": 72783,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1177": {
+      "status": "OK",
+      "bytes": 75296,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1178": {
+      "status": "OK",
+      "bytes": 68947,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1179": {
+      "status": "OK",
+      "bytes": 79826,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1180": {
+      "status": "OK",
+      "bytes": 73472,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1182": {
+      "status": "OK",
+      "bytes": 87803,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1183": {
+      "status": "OK",
+      "bytes": 80235,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1185": {
+      "status": "OK",
+      "bytes": 76182,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1186": {
+      "status": "OK",
+      "bytes": 77780,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1187": {
+      "status": "OK",
+      "bytes": 81398,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "1188": {
+      "status": "OK",
+      "bytes": 70250,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1777": {
+      "status": "OK",
+      "bytes": 86046,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "1781": {
+      "status": "OK",
+      "bytes": 87884,
+      "elapsed_s": 0.5,
+      "retries": 0
+    },
+    "2123": {
+      "status": "OK",
+      "bytes": 74215,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2124": {
+      "status": "OK",
+      "bytes": 74909,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2125": {
+      "status": "OK",
+      "bytes": 61865,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2126": {
+      "status": "OK",
+      "bytes": 62705,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2127": {
+      "status": "OK",
+      "bytes": 61211,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2129": {
+      "status": "OK",
+      "bytes": 68192,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2130": {
+      "status": "OK",
+      "bytes": 69125,
+      "elapsed_s": 0.5,
+      "retries": 0
+    },
+    "2131": {
+      "status": "OK",
+      "bytes": 60736,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2132": {
+      "status": "OK",
+      "bytes": 64281,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2133": {
+      "status": "OK",
+      "bytes": 63669,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2134": {
+      "status": "OK",
+      "bytes": 74331,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2135": {
+      "status": "OK",
+      "bytes": 60976,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2136": {
+      "status": "OK",
+      "bytes": 68916,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2155": {
+      "status": "OK",
+      "bytes": 67769,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2156": {
+      "status": "OK",
+      "bytes": 64216,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2157": {
+      "status": "OK",
+      "bytes": 77927,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2158": {
+      "status": "OK",
+      "bytes": 64235,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2159": {
+      "status": "OK",
+      "bytes": 77135,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2160": {
+      "status": "OK",
+      "bytes": 61826,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2161": {
+      "status": "OK",
+      "bytes": 74676,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2162": {
+      "status": "OK",
+      "bytes": 62449,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2163": {
+      "status": "OK",
+      "bytes": 64212,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2164": {
+      "status": "OK",
+      "bytes": 77154,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2165": {
+      "status": "OK",
+      "bytes": 61299,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2166": {
+      "status": "OK",
+      "bytes": 61314,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2167": {
+      "status": "OK",
+      "bytes": 69007,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2168": {
+      "status": "OK",
+      "bytes": 62789,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2169": {
+      "status": "OK",
+      "bytes": 64149,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2170": {
+      "status": "OK",
+      "bytes": 61271,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2171": {
+      "status": "OK",
+      "bytes": 64215,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2173": {
+      "status": "OK",
+      "bytes": 62970,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2174": {
+      "status": "OK",
+      "bytes": 69042,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2175": {
+      "status": "OK",
+      "bytes": 75425,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2176": {
+      "status": "OK",
+      "bytes": 64190,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2177": {
+      "status": "OK",
+      "bytes": 64171,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2178": {
+      "status": "OK",
+      "bytes": 77932,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2180": {
+      "status": "OK",
+      "bytes": 60825,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2181": {
+      "status": "OK",
+      "bytes": 76489,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2182": {
+      "status": "OK",
+      "bytes": 64179,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2183": {
+      "status": "OK",
+      "bytes": 78071,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2184": {
+      "status": "OK",
+      "bytes": 64200,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2185": {
+      "status": "OK",
+      "bytes": 78720,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2186": {
+      "status": "OK",
+      "bytes": 61302,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2187": {
+      "status": "OK",
+      "bytes": 78234,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2188": {
+      "status": "OK",
+      "bytes": 64099,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2189": {
+      "status": "OK",
+      "bytes": 77932,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2191": {
+      "status": "OK",
+      "bytes": 69046,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2192": {
+      "status": "OK",
+      "bytes": 61642,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2193": {
+      "status": "OK",
+      "bytes": 64399,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2194": {
+      "status": "OK",
+      "bytes": 66785,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2195": {
+      "status": "OK",
+      "bytes": 60775,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2196": {
+      "status": "OK",
+      "bytes": 64173,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2197": {
+      "status": "OK",
+      "bytes": 69047,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2198": {
+      "status": "OK",
+      "bytes": 61783,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2199": {
+      "status": "OK",
+      "bytes": 60788,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2200": {
+      "status": "OK",
+      "bytes": 65593,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2201": {
+      "status": "OK",
+      "bytes": 77577,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2202": {
+      "status": "OK",
+      "bytes": 79141,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2203": {
+      "status": "OK",
+      "bytes": 79371,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2204": {
+      "status": "OK",
+      "bytes": 83201,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2205": {
+      "status": "OK",
+      "bytes": 78499,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2206": {
+      "status": "OK",
+      "bytes": 80998,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2207": {
+      "status": "OK",
+      "bytes": 71048,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2208": {
+      "status": "OK",
+      "bytes": 60726,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2212": {
+      "status": "OK",
+      "bytes": 64136,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2213": {
+      "status": "OK",
+      "bytes": 69416,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2214": {
+      "status": "OK",
+      "bytes": 66762,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2215": {
+      "status": "OK",
+      "bytes": 66900,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2216": {
+      "status": "OK",
+      "bytes": 66383,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2217": {
+      "status": "OK",
+      "bytes": 66507,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2218": {
+      "status": "OK",
+      "bytes": 66887,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2219": {
+      "status": "OK",
+      "bytes": 73397,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2220": {
+      "status": "OK",
+      "bytes": 69571,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2221": {
+      "status": "OK",
+      "bytes": 77584,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2222": {
+      "status": "OK",
+      "bytes": 61137,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2223": {
+      "status": "OK",
+      "bytes": 61669,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2224": {
+      "status": "OK",
+      "bytes": 61718,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2225": {
+      "status": "OK",
+      "bytes": 66603,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2226": {
+      "status": "OK",
+      "bytes": 59668,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2227": {
+      "status": "OK",
+      "bytes": 61951,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2228": {
+      "status": "OK",
+      "bytes": 65002,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2229": {
+      "status": "OK",
+      "bytes": 64751,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2230": {
+      "status": "OK",
+      "bytes": 64318,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2231": {
+      "status": "OK",
+      "bytes": 70491,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2232": {
+      "status": "OK",
+      "bytes": 69653,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2233": {
+      "status": "OK",
+      "bytes": 61658,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2234": {
+      "status": "OK",
+      "bytes": 64837,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2235": {
+      "status": "OK",
+      "bytes": 69488,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2236": {
+      "status": "OK",
+      "bytes": 68991,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2237": {
+      "status": "OK",
+      "bytes": 14813,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2238": {
+      "status": "OK",
+      "bytes": 67198,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2239": {
+      "status": "OK",
+      "bytes": 64235,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2240": {
+      "status": "OK",
+      "bytes": 64026,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2241": {
+      "status": "OK",
+      "bytes": 69426,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2242": {
+      "status": "OK",
+      "bytes": 69670,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2243": {
+      "status": "OK",
+      "bytes": 64219,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2244": {
+      "status": "OK",
+      "bytes": 75836,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2245": {
+      "status": "OK",
+      "bytes": 66092,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2246": {
+      "status": "OK",
+      "bytes": 69423,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2247": {
+      "status": "OK",
+      "bytes": 69501,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2248": {
+      "status": "OK",
+      "bytes": 64259,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2249": {
+      "status": "OK",
+      "bytes": 69461,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2250": {
+      "status": "OK",
+      "bytes": 69249,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2251": {
+      "status": "OK",
+      "bytes": 69008,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2252": {
+      "status": "OK",
+      "bytes": 64180,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2253": {
+      "status": "OK",
+      "bytes": 64259,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2254": {
+      "status": "OK",
+      "bytes": 61673,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2256": {
+      "status": "OK",
+      "bytes": 59377,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2257": {
+      "status": "OK",
+      "bytes": 61725,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2258": {
+      "status": "OK",
+      "bytes": 61742,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2259": {
+      "status": "OK",
+      "bytes": 75951,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2260": {
+      "status": "OK",
+      "bytes": 61527,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2261": {
+      "status": "OK",
+      "bytes": 76567,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2262": {
+      "status": "OK",
+      "bytes": 63649,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2263": {
+      "status": "OK",
+      "bytes": 78252,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2264": {
+      "status": "OK",
+      "bytes": 78360,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2265": {
+      "status": "OK",
+      "bytes": 63954,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2266": {
+      "status": "OK",
+      "bytes": 61527,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2267": {
+      "status": "OK",
+      "bytes": 78605,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2268": {
+      "status": "OK",
+      "bytes": 78743,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2269": {
+      "status": "OK",
+      "bytes": 76406,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2270": {
+      "status": "OK",
+      "bytes": 81985,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2271": {
+      "status": "OK",
+      "bytes": 66223,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2272": {
+      "status": "OK",
+      "bytes": 64332,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2273": {
+      "status": "OK",
+      "bytes": 74481,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2274": {
+      "status": "OK",
+      "bytes": 63507,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2275": {
+      "status": "OK",
+      "bytes": 78723,
+      "elapsed_s": 0.5,
+      "retries": 0
+    },
+    "2276": {
+      "status": "OK",
+      "bytes": 78707,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2277": {
+      "status": "OK",
+      "bytes": 62048,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2278": {
+      "status": "OK",
+      "bytes": 63613,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2280": {
+      "status": "OK",
+      "bytes": 76374,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2281": {
+      "status": "OK",
+      "bytes": 60800,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2282": {
+      "status": "OK",
+      "bytes": 77764,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2283": {
+      "status": "OK",
+      "bytes": 60509,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2284": {
+      "status": "OK",
+      "bytes": 79659,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2285": {
+      "status": "OK",
+      "bytes": 64141,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2286": {
+      "status": "OK",
+      "bytes": 78206,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2287": {
+      "status": "OK",
+      "bytes": 73856,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2288": {
+      "status": "OK",
+      "bytes": 64186,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2289": {
+      "status": "OK",
+      "bytes": 63670,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2290": {
+      "status": "OK",
+      "bytes": 60797,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2291": {
+      "status": "OK",
+      "bytes": 64265,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2292": {
+      "status": "OK",
+      "bytes": 83448,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2293": {
+      "status": "OK",
+      "bytes": 78679,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2294": {
+      "status": "OK",
+      "bytes": 78111,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2295": {
+      "status": "OK",
+      "bytes": 61982,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2296": {
+      "status": "OK",
+      "bytes": 81485,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2297": {
+      "status": "OK",
+      "bytes": 63616,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2298": {
+      "status": "OK",
+      "bytes": 60262,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2299": {
+      "status": "OK",
+      "bytes": 58386,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2300": {
+      "status": "OK",
+      "bytes": 60267,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2301": {
+      "status": "OK",
+      "bytes": 58889,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2302": {
+      "status": "OK",
+      "bytes": 61509,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2303": {
+      "status": "OK",
+      "bytes": 61764,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2304": {
+      "status": "OK",
+      "bytes": 60805,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2305": {
+      "status": "OK",
+      "bytes": 79875,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2306": {
+      "status": "OK",
+      "bytes": 61258,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2307": {
+      "status": "OK",
+      "bytes": 61283,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2308": {
+      "status": "OK",
+      "bytes": 78783,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2309": {
+      "status": "OK",
+      "bytes": 76364,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2310": {
+      "status": "OK",
+      "bytes": 79396,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2311": {
+      "status": "OK",
+      "bytes": 61826,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2312": {
+      "status": "OK",
+      "bytes": 71949,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2313": {
+      "status": "OK",
+      "bytes": 61414,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2314": {
+      "status": "OK",
+      "bytes": 59049,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2315": {
+      "status": "OK",
+      "bytes": 78746,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2316": {
+      "status": "OK",
+      "bytes": 61179,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2317": {
+      "status": "OK",
+      "bytes": 62046,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2318": {
+      "status": "OK",
+      "bytes": 60882,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2319": {
+      "status": "OK",
+      "bytes": 77894,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2320": {
+      "status": "OK",
+      "bytes": 60907,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2321": {
+      "status": "OK",
+      "bytes": 71380,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2322": {
+      "status": "OK",
+      "bytes": 63619,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2323": {
+      "status": "OK",
+      "bytes": 64209,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2324": {
+      "status": "OK",
+      "bytes": 62279,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2325": {
+      "status": "OK",
+      "bytes": 61135,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2326": {
+      "status": "OK",
+      "bytes": 58836,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2327": {
+      "status": "OK",
+      "bytes": 64228,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2328": {
+      "status": "OK",
+      "bytes": 61128,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2329": {
+      "status": "OK",
+      "bytes": 63643,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2330": {
+      "status": "OK",
+      "bytes": 61951,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2331": {
+      "status": "OK",
+      "bytes": 63994,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2332": {
+      "status": "OK",
+      "bytes": 61274,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2333": {
+      "status": "OK",
+      "bytes": 60784,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2334": {
+      "status": "OK",
+      "bytes": 63676,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2335": {
+      "status": "OK",
+      "bytes": 63661,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2336": {
+      "status": "OK",
+      "bytes": 77175,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2337": {
+      "status": "OK",
+      "bytes": 60795,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2338": {
+      "status": "OK",
+      "bytes": 64176,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2339": {
+      "status": "OK",
+      "bytes": 61403,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2340": {
+      "status": "OK",
+      "bytes": 64090,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2341": {
+      "status": "OK",
+      "bytes": 75097,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2342": {
+      "status": "OK",
+      "bytes": 60773,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2343": {
+      "status": "OK",
+      "bytes": 60820,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2344": {
+      "status": "OK",
+      "bytes": 76625,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2345": {
+      "status": "OK",
+      "bytes": 75047,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2346": {
+      "status": "OK",
+      "bytes": 60716,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2347": {
+      "status": "OK",
+      "bytes": 79843,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2348": {
+      "status": "OK",
+      "bytes": 60850,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2349": {
+      "status": "OK",
+      "bytes": 58927,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2350": {
+      "status": "OK",
+      "bytes": 62297,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2351": {
+      "status": "OK",
+      "bytes": 60813,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2352": {
+      "status": "OK",
+      "bytes": 61294,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2354": {
+      "status": "OK",
+      "bytes": 60949,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2356": {
+      "status": "OK",
+      "bytes": 64044,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2357": {
+      "status": "OK",
+      "bytes": 61579,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2359": {
+      "status": "OK",
+      "bytes": 64250,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2360": {
+      "status": "OK",
+      "bytes": 63669,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2362": {
+      "status": "OK",
+      "bytes": 60841,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2363": {
+      "status": "OK",
+      "bytes": 64191,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2364": {
+      "status": "OK",
+      "bytes": 63708,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2365": {
+      "status": "OK",
+      "bytes": 9271,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2366": {
+      "status": "OK",
+      "bytes": 64178,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2368": {
+      "status": "OK",
+      "bytes": 68972,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2369": {
+      "status": "OK",
+      "bytes": 77831,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2370": {
+      "status": "OK",
+      "bytes": 67659,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2371": {
+      "status": "OK",
+      "bytes": 64306,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2372": {
+      "status": "OK",
+      "bytes": 68573,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2374": {
+      "status": "OK",
+      "bytes": 60657,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2376": {
+      "status": "OK",
+      "bytes": 65592,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2377": {
+      "status": "OK",
+      "bytes": 63667,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2378": {
+      "status": "OK",
+      "bytes": 64394,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2379": {
+      "status": "OK",
+      "bytes": 62434,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2380": {
+      "status": "OK",
+      "bytes": 62137,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2381": {
+      "status": "OK",
+      "bytes": 69627,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2382": {
+      "status": "OK",
+      "bytes": 60758,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2383": {
+      "status": "OK",
+      "bytes": 60662,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2384": {
+      "status": "OK",
+      "bytes": 61288,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2385": {
+      "status": "OK",
+      "bytes": 63134,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2386": {
+      "status": "OK",
+      "bytes": 69172,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2387": {
+      "status": "OK",
+      "bytes": 63689,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2388": {
+      "status": "OK",
+      "bytes": 64496,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2389": {
+      "status": "OK",
+      "bytes": 60754,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2390": {
+      "status": "OK",
+      "bytes": 64500,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2393": {
+      "status": "OK",
+      "bytes": 61283,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2394": {
+      "status": "OK",
+      "bytes": 61274,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2395": {
+      "status": "OK",
+      "bytes": 63585,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2396": {
+      "status": "OK",
+      "bytes": 62084,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2397": {
+      "status": "OK",
+      "bytes": 68542,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2398": {
+      "status": "OK",
+      "bytes": 64207,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2399": {
+      "status": "OK",
+      "bytes": 66758,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2400": {
+      "status": "OK",
+      "bytes": 65447,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2401": {
+      "status": "OK",
+      "bytes": 62365,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2402": {
+      "status": "OK",
+      "bytes": 65882,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2403": {
+      "status": "OK",
+      "bytes": 66535,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2404": {
+      "status": "OK",
+      "bytes": 68526,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2405": {
+      "status": "OK",
+      "bytes": 77129,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2406": {
+      "status": "OK",
+      "bytes": 64228,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2407": {
+      "status": "OK",
+      "bytes": 61739,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2408": {
+      "status": "OK",
+      "bytes": 66987,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2409": {
+      "status": "OK",
+      "bytes": 66537,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2410": {
+      "status": "OK",
+      "bytes": 60752,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2411": {
+      "status": "OK",
+      "bytes": 62037,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2412": {
+      "status": "EMPTY",
+      "reason": "no public data (empty <food/>)",
+      "retries": 0
+    },
+    "2413": {
+      "status": "OK",
+      "bytes": 64586,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2414": {
+      "status": "OK",
+      "bytes": 65324,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2415": {
+      "status": "OK",
+      "bytes": 64385,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2416": {
+      "status": "OK",
+      "bytes": 63515,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2417": {
+      "status": "OK",
+      "bytes": 64594,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2418": {
+      "status": "OK",
+      "bytes": 75650,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2419": {
+      "status": "OK",
+      "bytes": 61381,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2420": {
+      "status": "OK",
+      "bytes": 60791,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2421": {
+      "status": "OK",
+      "bytes": 77384,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2422": {
+      "status": "OK",
+      "bytes": 60726,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2423": {
+      "status": "OK",
+      "bytes": 64148,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2424": {
+      "status": "OK",
+      "bytes": 69521,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2425": {
+      "status": "OK",
+      "bytes": 63278,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2426": {
+      "status": "OK",
+      "bytes": 61068,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2427": {
+      "status": "OK",
+      "bytes": 62131,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2428": {
+      "status": "OK",
+      "bytes": 59742,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2429": {
+      "status": "OK",
+      "bytes": 66613,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2430": {
+      "status": "OK",
+      "bytes": 71114,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2431": {
+      "status": "OK",
+      "bytes": 63582,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2432": {
+      "status": "OK",
+      "bytes": 62199,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2433": {
+      "status": "OK",
+      "bytes": 65598,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2434": {
+      "status": "OK",
+      "bytes": 65633,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2435": {
+      "status": "OK",
+      "bytes": 64204,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2436": {
+      "status": "OK",
+      "bytes": 64004,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2437": {
+      "status": "OK",
+      "bytes": 64087,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2438": {
+      "status": "OK",
+      "bytes": 64254,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2439": {
+      "status": "OK",
+      "bytes": 61197,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2440": {
+      "status": "OK",
+      "bytes": 60698,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2441": {
+      "status": "OK",
+      "bytes": 64175,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2442": {
+      "status": "OK",
+      "bytes": 63684,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2443": {
+      "status": "OK",
+      "bytes": 61269,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2444": {
+      "status": "OK",
+      "bytes": 61495,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2445": {
+      "status": "OK",
+      "bytes": 60386,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2446": {
+      "status": "OK",
+      "bytes": 60284,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2447": {
+      "status": "OK",
+      "bytes": 61570,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2448": {
+      "status": "OK",
+      "bytes": 63489,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2449": {
+      "status": "OK",
+      "bytes": 63643,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2450": {
+      "status": "OK",
+      "bytes": 61433,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2451": {
+      "status": "OK",
+      "bytes": 64187,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2452": {
+      "status": "OK",
+      "bytes": 64238,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2453": {
+      "status": "OK",
+      "bytes": 64552,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2454": {
+      "status": "OK",
+      "bytes": 63039,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2455": {
+      "status": "OK",
+      "bytes": 61610,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2456": {
+      "status": "OK",
+      "bytes": 61164,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2457": {
+      "status": "OK",
+      "bytes": 63969,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2458": {
+      "status": "OK",
+      "bytes": 64014,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2459": {
+      "status": "OK",
+      "bytes": 61479,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2460": {
+      "status": "OK",
+      "bytes": 64042,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2461": {
+      "status": "OK",
+      "bytes": 63671,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2462": {
+      "status": "OK",
+      "bytes": 66048,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2463": {
+      "status": "OK",
+      "bytes": 69194,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2464": {
+      "status": "OK",
+      "bytes": 64158,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2465": {
+      "status": "OK",
+      "bytes": 66078,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2466": {
+      "status": "OK",
+      "bytes": 65981,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2467": {
+      "status": "OK",
+      "bytes": 64370,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2468": {
+      "status": "OK",
+      "bytes": 67299,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2469": {
+      "status": "OK",
+      "bytes": 64441,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2470": {
+      "status": "OK",
+      "bytes": 71315,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2471": {
+      "status": "OK",
+      "bytes": 78076,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2473": {
+      "status": "OK",
+      "bytes": 59802,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2474": {
+      "status": "OK",
+      "bytes": 64204,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2475": {
+      "status": "OK",
+      "bytes": 64428,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2476": {
+      "status": "OK",
+      "bytes": 60828,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2477": {
+      "status": "OK",
+      "bytes": 58531,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2478": {
+      "status": "OK",
+      "bytes": 61519,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2479": {
+      "status": "OK",
+      "bytes": 63764,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2480": {
+      "status": "OK",
+      "bytes": 78732,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2481": {
+      "status": "OK",
+      "bytes": 78711,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2482": {
+      "status": "OK",
+      "bytes": 63657,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2483": {
+      "status": "OK",
+      "bytes": 63601,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2484": {
+      "status": "OK",
+      "bytes": 62626,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2485": {
+      "status": "OK",
+      "bytes": 64127,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2486": {
+      "status": "OK",
+      "bytes": 65005,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2487": {
+      "status": "OK",
+      "bytes": 89826,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2488": {
+      "status": "OK",
+      "bytes": 89696,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2489": {
+      "status": "OK",
+      "bytes": 73008,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2490": {
+      "status": "OK",
+      "bytes": 63826,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2491": {
+      "status": "OK",
+      "bytes": 63812,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2492": {
+      "status": "OK",
+      "bytes": 64240,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2493": {
+      "status": "OK",
+      "bytes": 80017,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2494": {
+      "status": "OK",
+      "bytes": 64006,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2495": {
+      "status": "OK",
+      "bytes": 73827,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2496": {
+      "status": "OK",
+      "bytes": 61874,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2497": {
+      "status": "OK",
+      "bytes": 81936,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2498": {
+      "status": "OK",
+      "bytes": 63730,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2499": {
+      "status": "OK",
+      "bytes": 59971,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2500": {
+      "status": "OK",
+      "bytes": 63683,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2501": {
+      "status": "OK",
+      "bytes": 61989,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2502": {
+      "status": "OK",
+      "bytes": 62653,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2503": {
+      "status": "OK",
+      "bytes": 61923,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2504": {
+      "status": "OK",
+      "bytes": 61094,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2505": {
+      "status": "OK",
+      "bytes": 73129,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2506": {
+      "status": "OK",
+      "bytes": 77906,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2507": {
+      "status": "OK",
+      "bytes": 62068,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2508": {
+      "status": "OK",
+      "bytes": 78269,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2509": {
+      "status": "EMPTY",
+      "reason": "no public data (empty <food/>)",
+      "retries": 0
+    },
+    "2510": {
+      "status": "OK",
+      "bytes": 59447,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2511": {
+      "status": "OK",
+      "bytes": 63959,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2512": {
+      "status": "OK",
+      "bytes": 72895,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2513": {
+      "status": "OK",
+      "bytes": 63677,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2514": {
+      "status": "OK",
+      "bytes": 61833,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2515": {
+      "status": "OK",
+      "bytes": 62827,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2516": {
+      "status": "OK",
+      "bytes": 62881,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2517": {
+      "status": "OK",
+      "bytes": 64066,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2518": {
+      "status": "OK",
+      "bytes": 74743,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2519": {
+      "status": "OK",
+      "bytes": 72138,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2520": {
+      "status": "OK",
+      "bytes": 77102,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2521": {
+      "status": "OK",
+      "bytes": 61873,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2524": {
+      "status": "OK",
+      "bytes": 77404,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2525": {
+      "status": "OK",
+      "bytes": 72981,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2526": {
+      "status": "OK",
+      "bytes": 74808,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2527": {
+      "status": "OK",
+      "bytes": 64163,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2528": {
+      "status": "OK",
+      "bytes": 74787,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2530": {
+      "status": "OK",
+      "bytes": 61283,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2531": {
+      "status": "OK",
+      "bytes": 61302,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2532": {
+      "status": "OK",
+      "bytes": 87560,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2533": {
+      "status": "OK",
+      "bytes": 74879,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2534": {
+      "status": "OK",
+      "bytes": 74857,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2535": {
+      "status": "OK",
+      "bytes": 74837,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2536": {
+      "status": "OK",
+      "bytes": 59251,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2537": {
+      "status": "OK",
+      "bytes": 77567,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2538": {
+      "status": "OK",
+      "bytes": 77580,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2539": {
+      "status": "OK",
+      "bytes": 77589,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2540": {
+      "status": "OK",
+      "bytes": 77445,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2541": {
+      "status": "OK",
+      "bytes": 73925,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2542": {
+      "status": "OK",
+      "bytes": 87353,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2543": {
+      "status": "OK",
+      "bytes": 73072,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2544": {
+      "status": "OK",
+      "bytes": 88280,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2545": {
+      "status": "OK",
+      "bytes": 73201,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2546": {
+      "status": "OK",
+      "bytes": 72765,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2547": {
+      "status": "OK",
+      "bytes": 79617,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2548": {
+      "status": "OK",
+      "bytes": 71425,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2549": {
+      "status": "OK",
+      "bytes": 65621,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2550": {
+      "status": "OK",
+      "bytes": 65847,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2551": {
+      "status": "OK",
+      "bytes": 82325,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2552": {
+      "status": "OK",
+      "bytes": 63786,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2553": {
+      "status": "OK",
+      "bytes": 83691,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2554": {
+      "status": "OK",
+      "bytes": 65667,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2555": {
+      "status": "OK",
+      "bytes": 63737,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2556": {
+      "status": "OK",
+      "bytes": 64074,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2557": {
+      "status": "OK",
+      "bytes": 76691,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2558": {
+      "status": "OK",
+      "bytes": 59374,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2559": {
+      "status": "OK",
+      "bytes": 59560,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2560": {
+      "status": "OK",
+      "bytes": 84570,
+      "elapsed_s": 1.9,
+      "retries": 0
+    },
+    "2561": {
+      "status": "OK",
+      "bytes": 77840,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2562": {
+      "status": "OK",
+      "bytes": 60936,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2563": {
+      "status": "OK",
+      "bytes": 77648,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2564": {
+      "status": "OK",
+      "bytes": 64176,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2565": {
+      "status": "OK",
+      "bytes": 61677,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2567": {
+      "status": "OK",
+      "bytes": 59519,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2568": {
+      "status": "OK",
+      "bytes": 19837,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2569": {
+      "status": "OK",
+      "bytes": 64235,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2571": {
+      "status": "OK",
+      "bytes": 60642,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2572": {
+      "status": "OK",
+      "bytes": 60735,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2573": {
+      "status": "OK",
+      "bytes": 71439,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2574": {
+      "status": "OK",
+      "bytes": 64198,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2575": {
+      "status": "OK",
+      "bytes": 64210,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2577": {
+      "status": "OK",
+      "bytes": 64229,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2579": {
+      "status": "OK",
+      "bytes": 64134,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2580": {
+      "status": "OK",
+      "bytes": 64138,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2581": {
+      "status": "OK",
+      "bytes": 61705,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2583": {
+      "status": "OK",
+      "bytes": 62581,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2584": {
+      "status": "OK",
+      "bytes": 64244,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2585": {
+      "status": "OK",
+      "bytes": 59293,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2586": {
+      "status": "OK",
+      "bytes": 60151,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2587": {
+      "status": "OK",
+      "bytes": 63943,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2588": {
+      "status": "OK",
+      "bytes": 64634,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2589": {
+      "status": "OK",
+      "bytes": 74256,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2590": {
+      "status": "OK",
+      "bytes": 59511,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2591": {
+      "status": "OK",
+      "bytes": 59518,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2592": {
+      "status": "OK",
+      "bytes": 60536,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2593": {
+      "status": "OK",
+      "bytes": 63096,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2594": {
+      "status": "OK",
+      "bytes": 73861,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2596": {
+      "status": "OK",
+      "bytes": 64242,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2597": {
+      "status": "OK",
+      "bytes": 60759,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2598": {
+      "status": "OK",
+      "bytes": 60273,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2599": {
+      "status": "OK",
+      "bytes": 60254,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2600": {
+      "status": "OK",
+      "bytes": 63515,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2601": {
+      "status": "OK",
+      "bytes": 60632,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2602": {
+      "status": "OK",
+      "bytes": 64170,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2603": {
+      "status": "OK",
+      "bytes": 62776,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2604": {
+      "status": "OK",
+      "bytes": 62688,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2605": {
+      "status": "OK",
+      "bytes": 79346,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2606": {
+      "status": "OK",
+      "bytes": 59283,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2607": {
+      "status": "OK",
+      "bytes": 76620,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2608": {
+      "status": "OK",
+      "bytes": 59225,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2609": {
+      "status": "OK",
+      "bytes": 63675,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2610": {
+      "status": "OK",
+      "bytes": 64126,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2611": {
+      "status": "OK",
+      "bytes": 62355,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2612": {
+      "status": "OK",
+      "bytes": 60775,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2613": {
+      "status": "OK",
+      "bytes": 65654,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2614": {
+      "status": "OK",
+      "bytes": 63737,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2615": {
+      "status": "OK",
+      "bytes": 60890,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2616": {
+      "status": "OK",
+      "bytes": 63688,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2617": {
+      "status": "OK",
+      "bytes": 60834,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2618": {
+      "status": "OK",
+      "bytes": 59745,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2619": {
+      "status": "OK",
+      "bytes": 81998,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2620": {
+      "status": "OK",
+      "bytes": 81985,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2621": {
+      "status": "OK",
+      "bytes": 59569,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2622": {
+      "status": "OK",
+      "bytes": 77219,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2623": {
+      "status": "OK",
+      "bytes": 73709,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2624": {
+      "status": "OK",
+      "bytes": 58920,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2625": {
+      "status": "OK",
+      "bytes": 77115,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2626": {
+      "status": "OK",
+      "bytes": 75226,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2627": {
+      "status": "OK",
+      "bytes": 64175,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2628": {
+      "status": "OK",
+      "bytes": 60758,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2629": {
+      "status": "OK",
+      "bytes": 77145,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2630": {
+      "status": "OK",
+      "bytes": 75579,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2631": {
+      "status": "OK",
+      "bytes": 60837,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2632": {
+      "status": "OK",
+      "bytes": 64117,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2633": {
+      "status": "OK",
+      "bytes": 61226,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2634": {
+      "status": "OK",
+      "bytes": 77050,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2635": {
+      "status": "OK",
+      "bytes": 75425,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2636": {
+      "status": "OK",
+      "bytes": 76692,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2637": {
+      "status": "OK",
+      "bytes": 61241,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2639": {
+      "status": "OK",
+      "bytes": 64211,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2640": {
+      "status": "OK",
+      "bytes": 75974,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2641": {
+      "status": "OK",
+      "bytes": 64090,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2642": {
+      "status": "OK",
+      "bytes": 78583,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2643": {
+      "status": "OK",
+      "bytes": 63612,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2644": {
+      "status": "OK",
+      "bytes": 69075,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2645": {
+      "status": "OK",
+      "bytes": 69350,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2647": {
+      "status": "OK",
+      "bytes": 61579,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2648": {
+      "status": "OK",
+      "bytes": 75010,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2649": {
+      "status": "OK",
+      "bytes": 67341,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2650": {
+      "status": "OK",
+      "bytes": 67421,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2651": {
+      "status": "OK",
+      "bytes": 80394,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2652": {
+      "status": "OK",
+      "bytes": 92136,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2653": {
+      "status": "OK",
+      "bytes": 62110,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2654": {
+      "status": "OK",
+      "bytes": 66435,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2655": {
+      "status": "OK",
+      "bytes": 66057,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2656": {
+      "status": "OK",
+      "bytes": 66020,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2657": {
+      "status": "OK",
+      "bytes": 66543,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2658": {
+      "status": "OK",
+      "bytes": 72415,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2659": {
+      "status": "OK",
+      "bytes": 61696,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2660": {
+      "status": "OK",
+      "bytes": 61285,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2661": {
+      "status": "OK",
+      "bytes": 65537,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2662": {
+      "status": "OK",
+      "bytes": 71055,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2663": {
+      "status": "OK",
+      "bytes": 71033,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2664": {
+      "status": "OK",
+      "bytes": 75687,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2665": {
+      "status": "OK",
+      "bytes": 61533,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2666": {
+      "status": "OK",
+      "bytes": 64261,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2667": {
+      "status": "OK",
+      "bytes": 62609,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2668": {
+      "status": "OK",
+      "bytes": 64162,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2669": {
+      "status": "OK",
+      "bytes": 75277,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2670": {
+      "status": "OK",
+      "bytes": 77066,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2671": {
+      "status": "OK",
+      "bytes": 76123,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2672": {
+      "status": "OK",
+      "bytes": 77000,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2673": {
+      "status": "OK",
+      "bytes": 73226,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2674": {
+      "status": "OK",
+      "bytes": 63978,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2675": {
+      "status": "OK",
+      "bytes": 77024,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2676": {
+      "status": "OK",
+      "bytes": 62726,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2677": {
+      "status": "OK",
+      "bytes": 67412,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2678": {
+      "status": "OK",
+      "bytes": 77157,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2680": {
+      "status": "OK",
+      "bytes": 80216,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2685": {
+      "status": "OK",
+      "bytes": 81466,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2686": {
+      "status": "OK",
+      "bytes": 76585,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2687": {
+      "status": "OK",
+      "bytes": 76583,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2688": {
+      "status": "OK",
+      "bytes": 73153,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2689": {
+      "status": "OK",
+      "bytes": 73166,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2690": {
+      "status": "OK",
+      "bytes": 73153,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2691": {
+      "status": "OK",
+      "bytes": 73211,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2692": {
+      "status": "OK",
+      "bytes": 73207,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2693": {
+      "status": "OK",
+      "bytes": 73218,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2694": {
+      "status": "OK",
+      "bytes": 63417,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2695": {
+      "status": "OK",
+      "bytes": 64926,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2696": {
+      "status": "OK",
+      "bytes": 63411,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2697": {
+      "status": "OK",
+      "bytes": 64926,
+      "elapsed_s": 0.3,
+      "retries": 0
+    },
+    "2698": {
+      "status": "OK",
+      "bytes": 63416,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2699": {
+      "status": "OK",
+      "bytes": 64936,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2700": {
+      "status": "OK",
+      "bytes": 64957,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2701": {
+      "status": "OK",
+      "bytes": 64934,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2702": {
+      "status": "EMPTY",
+      "reason": "no public data (empty <food/>)",
+      "retries": 0
+    },
+    "2703": {
+      "status": "EMPTY",
+      "reason": "no public data (empty <food/>)",
+      "retries": 0
+    },
+    "2704": {
+      "status": "EMPTY",
+      "reason": "no public data (empty <food/>)",
+      "retries": 0
+    },
+    "2705": {
+      "status": "EMPTY",
+      "reason": "no public data (empty <food/>)",
+      "retries": 0
+    },
+    "2706": {
+      "status": "EMPTY",
+      "reason": "no public data (empty <food/>)",
+      "retries": 0
+    },
+    "2707": {
+      "status": "EMPTY",
+      "reason": "no public data (empty <food/>)",
+      "retries": 0
+    },
+    "2708": {
+      "status": "EMPTY",
+      "reason": "no public data (empty <food/>)",
+      "retries": 0
+    },
+    "2709": {
+      "status": "EMPTY",
+      "reason": "no public data (empty <food/>)",
+      "retries": 0
+    },
+    "2710": {
+      "status": "EMPTY",
+      "reason": "no public data (empty <food/>)",
+      "retries": 0
+    },
+    "2711": {
+      "status": "OK",
+      "bytes": 75802,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2712": {
+      "status": "OK",
+      "bytes": 75815,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2713": {
+      "status": "OK",
+      "bytes": 75807,
+      "elapsed_s": 0.4,
+      "retries": 0
+    },
+    "2714": {
+      "status": "EMPTY",
+      "reason": "no public data (empty <food/>)",
+      "retries": 0
+    }
+  },
+  "failed": [],
+  "parse": {
+    "parsed_at": "2026-08-19T12:35:46.080575+00:00",
+    "foods_parsed": 957,
+    "value_rows": 31166,
+    "errors": [],
+    "warnings": [],
+    "duplicate_components": [],
+    "zero_component_foods": [],
+    "multi_unit_components": {
+      "ENERC": [
+        "kJ",
+        "kcal"
+      ],
+      "WATER": [
+        "g",
+        "mg"
+      ],
+      "CHO": [
+        "g",
+        "mg"
+      ],
+      "FIBT": [
+        "g",
+        "mg"
+      ],
+      "BIOT": [
+        "mg",
+        "ug"
+      ]
+    }
+  },
+  "empty": [
+    {
+      "f_id": 2412,
+      "name": "Puerro, en conserva",
+      "reason": "no public data (empty <food/>)"
+    },
+    {
+      "f_id": 2509,
+      "name": "Lactosa",
+      "reason": "no public data (empty <food/>)"
+    },
+    {
+      "f_id": 2702,
+      "name": "Carne de vacuno, lomo, partes magra y grasa, crudo",
+      "reason": "no public data (empty <food/>)"
+    },
+    {
+      "f_id": 2703,
+      "name": "Carne de vacuno, solomillo, partes magra y grasa, crudo",
+      "reason": "no public data (empty <food/>)"
+    },
+    {
+      "f_id": 2704,
+      "name": "Carne de vacuno, costillar, partes magra y grasa, crudo",
+      "reason": "no public data (empty <food/>)"
+    },
+    {
+      "f_id": 2705,
+      "name": "Carne de vacuno, redondo, partes magra y grasa, crudo",
+      "reason": "no public data (empty <food/>)"
+    },
+    {
+      "f_id": 2706,
+      "name": "Carne de vacuno, cadera, partes magra y grasa, crudo",
+      "reason": "no public data (empty <food/>)"
+    },
+    {
+      "f_id": 2707,
+      "name": "Vacuno, mollejas, crudas",
+      "reason": "no public data (empty <food/>)"
+    },
+    {
+      "f_id": 2708,
+      "name": "Carne de vacuno, rabo, partes magra y grasa, crudo",
+      "reason": "no public data (empty <food/>)"
+    },
+    {
+      "f_id": 2709,
+      "name": "Vacuno, hígado, crudo",
+      "reason": "no public data (empty <food/>)"
+    },
+    {
+      "f_id": 2710,
+      "name": "Carne de vacuno, carrillera, partes magra y grasa, crudo",
+      "reason": "no public data (empty <food/>)"
+    },
+    {
+      "f_id": 2714,
+      "name": "Pistacho deshidratado suave",
+      "reason": "no public data (empty <food/>)"
+    }
+  ]
+}

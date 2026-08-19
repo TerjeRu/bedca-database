@@ -1,0 +1,78 @@
+BEDCA Food Composition Dataset — License
+=========================================
+
+Dataset: BEDCA Food Composition Dataset (retrieved August 2026)
+Contents: 957 foods, 31,166 component values, from the Spanish Food
+Composition Database (BEDCA v1.0) published on the web by AESAN/BEDCA.
+The data is documented per the EuroFIR specifications (June 2009).
+
+Source: AESAN/BEDCA Base de Datos Española de Composición de Alimentos v1.0 (2010)
+Site:   https://www.bedca.net/
+Contact for error reports: bedca.adm@gmail.com
+
+Attribution (required on any reproduction):
+
+    AESAN/BEDCA Base de Datos Española de Composición de Alimentos v1.0 (2010)
+
+Conditions of use (per the AESAN/BEDCA "Condiciones de uso", v 1.0):
+
+1. The information may not be reproduced without clear indication of the
+   original source (the attribution above).
+
+2. The data may not be modified, nor may its original meaning be altered.
+   Accordingly, all values in this dataset are stored verbatim, exactly as
+   returned by the source database.
+
+3. Reproduction, translation, or any use other than personal, educational,
+   or non-commercial use of the data in electronic format is subject to the
+   express authorization of AESAN/BEDCA.
+
+4. Neither AESAN nor BEDCA assumes any responsibility for the data, its
+   documentation, or its subsequent use — including its use in software or
+   in combination with other websites.
+
+----------------------------------------------------------------------------
+Original terms (Spanish), as published on the source website:
+
+    Condiciones de uso
+    Base de Datos Española de Composición de Alimentos. AESAN/BEDCA v 1.0
+
+    AESAN/BEDCA pone en esta Web a disposición del público la Base de Datos
+    Española de Composición de Alimentos (BEDCA v1.0). Esta Base de datos ha
+    supuesto el trabajo de muchos profesionales durante varios años. No es
+    estática y se irá actualizando y ampliando periódicamente. No obstante,
+    se pueden encontrar errores por lo que agradeceríamos que nos los
+    hicieran saber para poder corregirlos (bedca.adm@gmail.com).
+
+    Los datos contenidos en AESAN/BEDCA Base de Datos Española de
+    Composición de Alimentos v1.0 están documentados de acuerdo a las
+    Especificaciones de EuroFIR (Junio, 2009) por la red AESAN/BEDCA.
+
+    Copyright
+
+    AESAN/BEDCA ponen a disposición del público esta información sobre datos
+    de composición de alimentos. La información que encuentren en ella no
+    puede ser reproducida sin clara indicación de la fuente original:
+    AESAN/BEDCA Base de Datos Española de Composición de Alimentos v1.0
+    (2010) y no podrán ser modificados ni alterado su significado original
+
+    La reproducción, traducción o cualquier uso que no sea personal,
+    educacional o no comercial, de los datos en formato electrónico, estará
+    sujeto a la autorización expresa de AESAN/BEDCA de Datos Española de
+    Composición de Alimentos en base a las condiciones que se remitirán a
+    los interesados.
+
+    Exención de responsabilidades
+
+    Ni la AESAN, ni BEDCA asumen ninguna responsabilidad por los datos y la
+    documentación de los componentes de acuerdo con EuroFIR recogidos en
+    esta Web. Se ha realizado el máximo esfuerzo para que esta información
+    sea correcta. AESAN/BEDCA Base de Datos Española de Composición de
+    Alimentos no asume la responsabilidad sobre los datos recogidos en esta
+    Web ni la de su uso posterior, incluido su utilización en software o por
+    enlace con otros sitios Web. AESAN/BEDCA Base de Datos Española de
+    Composición de Alimentos no acepta responsabilidad respecto a los
+    problemas derivados del uso del sitio Web o de otros externos enlazados
+    con él. Del mismo modo, AESAN/BEDCA Base de Datos Española de
+    Composición de Alimentos no asume responsabilidad para el pago de
+    cualquier daño ni pérdida directa o indirecta.

@@ -1,0 +1,70 @@
+﻿eur_name,c_ori_name,c_eng_name,v_unit,u_id,u_descripcion,u_description,mu_id,mu_descripcion,mu_description
+ALC,alcohol (etanol),alcohol (ethanol),g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+ENERC,"energía, total","energy, total metabolisable calculated from energy-producing food components",kJ,kJ,kilojulios,kilojoule,W,por 100 g de porción comestible,per 100 g edible portion
+FAT,"grasa, total (lipidos totales)","fat, total (total lipid)",g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+PROT,"proteina, total","protein, total",g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+WATER,agua (humedad),water (moisture),g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+CHO,carbohidratos,carbohydrate,g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+FIBT,"fibra, dietetica total","fibre, total dietary",g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+STARCH,"almidón, total","starch, total",g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+SUGAR,"azucares, totales","sugars, total",g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+FAMS,"ácidos grasos, monoinsaturados totales","fatty acids, total monounsaturated",g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+FAPU,"ácidos grasos, poliinsaturados totales","fatty acids, total polyunsaturated",g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+FASAT,ácidos grasos saturados totales,"fatty acids, total saturated",g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+CHORL,colesterol,cholesterol,mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+VITA,Vitamina A equivalentes de retinol de actividades de retinos y carotenoides,vitamin A retinol equiv from retinol and carotenoid activities,ug,ug,microgramos,microgram,W,por 100 g de porción comestible,per 100 g edible portion
+VITD,Vitamina D,vitamin D,ug,ug,microgramos,microgram,W,por 100 g de porción comestible,per 100 g edible portion
+VITE,Viamina E equivalentes de alfa tocoferol de actividades de vitámeros E,vitamin E alpha-tocopherol equiv from E vitamer activities,mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+BIOT,biotina,biotin,ug,ug,microgramos,microgram,W,por 100 g de porción comestible,per 100 g edible portion
+FOL,"folato, total","folate, total",ug,ug,microgramos,microgram,W,por 100 g de porción comestible,per 100 g edible portion
+NIAEQ,"equivalentes de niacina, totales","niacin equivalents, total",mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+PANTAC,ácido pantoténico (vitamina B5),pantothenic acid (vitamin B5),mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+RIBF,riboflavina,riboflavin,mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+THIA,tiamina,thiamin,mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+VITB12,Vitamina B-12,vitamin B-12,ug,ug,microgramos,microgram,W,por 100 g de porción comestible,per 100 g edible portion
+VITB6,"Vitamina B-6, Total","vitamin B-6, total",mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+VITC,Vitamina C (ácido ascórbico),vitamin C (ascorbic acid),mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+CA,calcio,calcium,mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+FE,"hierro, total","iron, total",mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+K,potasio,potassium,mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+MG,magnesio,magnesium,mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+NA,sodio,sodium,mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+P,fósforo,phosphorus,mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+CU,cobre,copper,mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+ID,ioduro,iodide,ug,ug,microgramos,microgram,W,por 100 g de porción comestible,per 100 g edible portion
+SE,"selenio, total","selenium, total",ug,ug,microgramos,microgram,W,por 100 g de porción comestible,per 100 g edible portion
+ZN,zinc (cinc),zinc,mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+BIOT,biotina,biotin,mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+SUCS,sacarosa,sucrose,g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+F12:0,ácido graso 12:0 (láurico),fatty acid 12:0 (lauric acid),g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+F14:0,ácido graso 14:0 (ácido mirístico),fatty acid 14:0 (myristic acid),g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+F16:0,ácido graso 16:0 (ácido palmítico),fatty acid 16:0 (palmitic acid),g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+F18:0,ácido graso 18:0 (ácido esteárico),fatty acid 18:0 (stearic acid),g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+F18:1CN9,ácido graso 18:1 n-9 cis (ácido oléico),fatty acid 18:1 n-9 cis (oleic acid),g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+F18:2,ácido graso 18:2,fatty acid 18:2,g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+F18:3,ácido graso 18:3,fatty acid 18:3,g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+F20:4N6,ácido graso 20:4 n-6  (ácido araquidónico),fatty acid 20:4 n-6 (arachidonic acid),g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+F20:5,ácido graso 20:5 (ácido eicosapentaenóico),fatty acid 20:5 (eicopentaenoic acid),g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+F22:6N3,ácido graso 22:6 n-3 (ácido docosahexaenóico),fatty acid 22:6 n-3 (docosahexaenoic acid),g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+FATRS,"ácidos grasos, trans totales","fatty acids, total trans",g,g,gramos,gram,W,por 100 g de porción comestible,per 100 g edible portion
+CA,calcio,calcium,mg,mg,miligramos,milligram,WKG,por Kg de parte comestible,per Kg edible portion
+FE,"hierro, total","iron, total",mg,mg,miligramos,milligram,WKG,por Kg de parte comestible,per Kg edible portion
+K,potasio,potassium,mg,mg,miligramos,milligram,WKG,por Kg de parte comestible,per Kg edible portion
+MG,magnesio,magnesium,mg,mg,miligramos,milligram,WKG,por Kg de parte comestible,per Kg edible portion
+NA,sodio,sodium,mg,mg,miligramos,milligram,WKG,por Kg de parte comestible,per Kg edible portion
+P,fósforo,phosphorus,mg,mg,miligramos,milligram,WKG,por Kg de parte comestible,per Kg edible portion
+CU,cobre,copper,mg,mg,miligramos,milligram,WKG,por Kg de parte comestible,per Kg edible portion
+ZN,zinc (cinc),zinc,mg,mg,miligramos,milligram,WKG,por Kg de parte comestible,per Kg edible portion
+FAMS,"ácidos grasos, monoinsaturados totales","fatty acids, total monounsaturated",g,g,gramos,gram,VM,por ml de volumen del alimento,per ml food volume
+FIBT,"fibra, dietetica total","fibre, total dietary",mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+PANTAC,ácido pantoténico (vitamina B5),pantothenic acid (vitamin B5),mg,mg,miligramos,milligram,D,por 100 g de peso en seco,per 100 g dry weight
+FOL,"folato, total","folate, total",ug,ug,microgramos,microgram,WKG,por Kg de parte comestible,per Kg edible portion
+F14:0,ácido graso 14:0 (ácido mirístico),fatty acid 14:0 (myristic acid),g,g,gramos,gram,D,por 100 g de peso en seco,per 100 g dry weight
+F16:0,ácido graso 16:0 (ácido palmítico),fatty acid 16:0 (palmitic acid),g,g,gramos,gram,D,por 100 g de peso en seco,per 100 g dry weight
+F18:0,ácido graso 18:0 (ácido esteárico),fatty acid 18:0 (stearic acid),g,g,gramos,gram,D,por 100 g de peso en seco,per 100 g dry weight
+F18:1CN9,ácido graso 18:1 n-9 cis (ácido oléico),fatty acid 18:1 n-9 cis (oleic acid),g,g,gramos,gram,D,por 100 g de peso en seco,per 100 g dry weight
+ENERC,"energía, total","energy, total metabolisable calculated from energy-producing food components",kcal,kcal,kilocalorías,kilocalorie,W,por 100 g de porción comestible,per 100 g edible portion
+CHO,carbohidratos,carbohydrate,mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
+ALC,alcohol (etanol),alcohol (ethanol),g,g,gramos,gram,D,por 100 g de peso en seco,per 100 g dry weight
+FAPU,"ácidos grasos, poliinsaturados totales","fatty acids, total polyunsaturated",g,g,gramos,gram,VM,por ml de volumen del alimento,per ml food volume
+WATER,agua (humedad),water (moisture),mg,mg,miligramos,milligram,W,por 100 g de porción comestible,per 100 g edible portion
